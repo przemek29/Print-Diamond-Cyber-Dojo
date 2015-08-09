@@ -1,0 +1,4 @@
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\PrintDiamond\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\PrintDiamond\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\PrintDiamond\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\DOMINIKA\documents\visual studio 2010\Projects\PrintDiamond\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
